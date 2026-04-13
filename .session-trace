@@ -1,0 +1,6 @@
+2026-04-13T10:33:08|Bash|cd /c/Users/yph1/Documents/_profile-readme && git add README.md && git commit -m
+2026-04-13T10:33:18|Bash|git push origin main 2>&1
+2026-04-13T14:12:22|Bash|cd /c/Users/yph1/Documents/_profile-readme && git add README.md && git commit -m
+2026-04-13T14:12:43|Bash|git rebase --abort && git reset --hard origin/main 2>&1
+2026-04-13T14:16:20|Bash|cd /c/Users/yph1/Documents/_profile-readme && git log --oneline
+2026-04-13T14:16:29|Bash|git log --format="%H %ad %s" --date=short
